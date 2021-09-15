@@ -1,4 +1,4 @@
-# flutter_notes
+# watched_movies
 
 A new Flutter project.
 
