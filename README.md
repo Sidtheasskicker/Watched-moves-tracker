@@ -1,6 +1,6 @@
 # watched_movies
 
-A new Flutter project.
+A  Flutter project  where the user can add all his recently or previously watched movies.He has the privilege to add the movie title,directors and a image from the gallery or can take a photo and they can also edit them .(sqlite as a backend)
 
 ## Getting Started
 
